@@ -1,7 +1,7 @@
 // Laboratório 1, Laboratório de Programação Avançada
 // Assunto: listas encadeadas
-// Aluna: Lígia Márcia do Nascimento Teixeira, 21752477
-// Data: 18/02/2021
+// Aluna: Lígia Márcia do Nascimento Teixeira
+
 
 
 //importando as bibliotecas necessárias
