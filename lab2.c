@@ -1,6 +1,7 @@
 // Laboratório 2, Laboratório de Programação Avançada
 // Assunto: Tabelas Hash
 // Aluna: Lígia Márcia do Nascimento Teixeira
+// Este código possui um arquivo de texto de entrada "teste.txt"
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
